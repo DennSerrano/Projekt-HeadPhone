@@ -116,8 +116,9 @@ aside nav ul li {
 /* ===========Section 1============ */
 
 main section article:nth-of-type(1) p {
-    font-size: 10vh;
+    font-size: 8vh;
     width: 50vw;
+    font-weight: 300;
     margin: 20vh auto;
 }
 
